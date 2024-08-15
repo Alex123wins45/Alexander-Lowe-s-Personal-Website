@@ -1,0 +1,111 @@
+nav {
+    background-color: white;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+ }
+ 
+header {
+    background: white;
+    padding: 20px;
+}
+
+img {
+    width: 80px;
+    size: 50px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color:gray;
+}
+
+.pic2 {
+    width: 30%;
+    margin: 100px auto;
+    display: block;
+}
+
+.link {
+    color: black;
+}
+
+.link:hover {
+    background-color: white;
+    opacity: 0.1;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
+
+.robot {
+    width: 30%;
+    margin: 1px auto;
+    position: relative;
+    left: 100px;    
+}
+
+.alex {
+    float: left;
+    border-radius: 10px;
+    width: 30%;
+    margin: auto;
+    height: 100%;
+}
+
+.info {
+    text-align: right;
+    font-size: 33px;
+}
+
+.links {
+    font-size: 33px;
+}
+
+.robot2 {
+    width: 750px;
+    margin: 1px auto;
+    height: 600px;
+    position: relative;
+    left: 650px;
+}
+
+h2 {
+    position: relative;
+    left: 630px;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: grey;
+    color: gray;
+    margin-top: 40px;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color:black;
+    color: black;
+    font-size: 14px;
+}
+
+footer p {
+    margin: 10px 0;
+    color: yellow;
+}
+
+footer a {
+    color: yellow;
+}
